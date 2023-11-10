@@ -1,0 +1,5 @@
+transformers
+jiwer
+datasets
+modelscope
+accelerate

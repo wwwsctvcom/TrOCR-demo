@@ -13,7 +13,7 @@ class Arguments:
 
     def __init__(self):
         # model name or path
-        self.model_name_or_path = "openai/whisper-small"
+        self.model_name_or_path = ""
 
         # train
         self.epochs = 2

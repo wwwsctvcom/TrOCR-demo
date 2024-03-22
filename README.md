@@ -14,7 +14,7 @@ print(ds[0])
 > {'image_id': 'image-000038361', 'label': '麻潮', 'image': <PIL.PngImagePlugin.PngImageFile image mode=RGB size=101x28 at 0x7E7FD0FD6350>}
 
 # Training
-使用默认的参数开始训练；
+使用默认的参数开始训练，训练速度可能会比较慢，需要使用更大的GPU或者使用lora方法训练；
 ```
 python train.py
 ```
